@@ -1,0 +1,19 @@
+- [ ]  Completar [[Álgebra Relacional]] com os slides para BD - quase pronto
+- [x] Entregar os exercicios de empreendedorismo
+- [ ] Fazer diagrama de classe pro TIC
+- [ ] Exercicio BD
+- [ ] Criar guia de estudo para revisão da matéria ParProg
+- [ ]  Entregar parte do TIC Empreendedorismo ( mapa de empatia, entrevista, design thinking)
+- [ ] Estudar Estruturas de dados
+- [ ] Criar conteudo de estudo com a ementa de IHC para estudar pra prova   
+  - Fatores Humanos em Software Interativo: Teoria, Princípios e Regras Básicas 
+  - Estilos Interativos 
+  - Linguagens de Comandos 
+  - Manipulação Direta
+  - Dispositivos de Interação 
+  - Padrões para Interface 
+  - Usabilidade 
+  - Definição e Métodos de Avaliação 
+  - Realidade Virtual: Natureza e Benefícios 
+  - Componentes: Gráficos e Sons 
+  - A Natureza da Interação com o Usuário e Ambientes Virtuais
