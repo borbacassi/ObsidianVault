@@ -1,3 +1,36 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// Estilo para quando a nota tem a classe "dashboard"
+.dashboard {
+  .article-title {
+    text-align: center; // Centraliza o título
+    font-size: 3rem;
+    color: var(--secondary);
+  }
+
+  p {
+    text-align: center; // Centraliza o texto
+    font-size: 1.2rem;
+  }
+
+  // Criando um visual de "Cartões" para os seus links
+  .links-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .card-link {
+    border: 1px solid var(--lightgray);
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.2s;
+    &:hover {
+      transform: translateY(-5px);
+      border-color: var(--tertiary);
+    }
+  }
+}
